@@ -1076,3 +1076,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .theme-dark .gameUpdates-2GPqBU {background-color: var(--RBT);}
 
 .theme-dark .popout-2sKjHu {background: var(--RBT);}
+
+.links, .chat-3bRxxu, .typing, .privateChannels-1nO12o, .dividerRed-MKoLlr span, .messagesWrapper-3lZDfY, #voice-connection, #rtc-connection {
+    background: rgba(0,0,0,.4) !important;
+}
