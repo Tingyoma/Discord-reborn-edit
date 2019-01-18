@@ -99,7 +99,7 @@ text-shadow: 1px 1px 0px black;
 
 .headerSpotify-zpWxgT {background: var(--RBT) !important;}
 
-.theme-dark .guildsWrapper-5TJh6A{margin-top: 48px !important;height: calc(100% - 119px) !important;}
+.theme-dark .guildsWrapper-5TJh6A{margin-top: 0px !important;height: calc(100% - 119px) !important;}
 
 .guilds-1q_RqH .guild-1EfMGQ:hover:first-child{background-color: rgba(0,0,0,0.65) !important;}
 
@@ -1076,6 +1076,8 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .theme-dark .gameUpdates-2GPqBU {background-color: var(--RBT);}
 
 .theme-dark .popout-2sKjHu {background: var(--RBT);}
+
+.theme-dark .container-3gCOGc {background-color: rgba(0,0,0,.7);}
 
 .links, .chat-3bRxxu, .typing, .privateChannels-1nO12o, .dividerRed-MKoLlr span, .messagesWrapper-3lZDfY, #voice-connection, #rtc-connection {
     background: rgba(0,0,0,.4) !important;
