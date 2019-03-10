@@ -1082,3 +1082,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .links, .chat-3bRxxu, .typing, .privateChannels-1nO12o, .dividerRed-MKoLlr span, .messagesWrapper-3lZDfY, #voice-connection, #rtc-connection {
     background: rgba(0,0,0,.4) !important;
 }
+
+.scrollerWrap-1IAIlv {
+    background: rgba(0,0,0,0.7);
+}
